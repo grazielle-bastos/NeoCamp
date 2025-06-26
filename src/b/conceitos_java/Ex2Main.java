@@ -1,3 +1,5 @@
+package b.conceitos_java;
+
 public class Ex2Main {
     public static void main(String[] args) {
 //● Crie um programa que receba uma lista de números inteiros do usuário e use streams para:

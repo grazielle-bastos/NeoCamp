@@ -1,3 +1,5 @@
+package b.conceitos_java;
+
 public class Ex3Main {
     public static void main(String[] args) {
 //● Crie um programa que armazene uma lista de pessoas (nome e idade) usando um Map.
