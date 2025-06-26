@@ -18,5 +18,6 @@ public class Ex2VerifMain {
             System.out.println("Este número é ímpar");
         }
 
+        sc.close();
     }
 }
