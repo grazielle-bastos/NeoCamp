@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class Ex2Main {
+public class Ex2StreamsMain {
     public static void main(String[] args) {
         //Crie um programa que receba uma lista de números inteiros do usuário e use streams para:
         //1. Filtrar os números ímpares.

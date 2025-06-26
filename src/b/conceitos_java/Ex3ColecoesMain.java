@@ -2,7 +2,7 @@ package b.conceitos_java;
 
 import java.util.*;
 
-public class Ex3Main {
+public class Ex3ColecoesMain {
     public static void main(String[] args) {
         //Crie um programa que armazene uma lista de pessoas (nome e idade) usando um Map.
         //1. Armazene as informações em um Map<String, Integer>, como um dicionário, onde a chave é o nome e o valor é a idade.
