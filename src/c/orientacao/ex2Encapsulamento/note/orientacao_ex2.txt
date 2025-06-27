@@ -1,0 +1,6 @@
+        Exercício 2: Encapsulamento e Métodos
+
+        Parte 2: Encapsulamento
+        Fácil: Modifique a classe Livro para que seus atributos sejam privados e forneça métodos getter e setter para cada um deles.
+        Médio: Adicione validação nos setters, por exemplo, anoPublicacao não pode ser negativo.
+        Difícil: Na classe Biblioteca, crie um método buscarLivroPorTitulo(String titulo) que retorna o livro com o título especificado.
