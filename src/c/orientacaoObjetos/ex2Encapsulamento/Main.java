@@ -1,4 +1,4 @@
-package c.orientacao.ex2Encapsulamento;
+package c.orientacaoObjetos.ex2Encapsulamento;
 
 public class Main {
     public static void main(String[] args) {

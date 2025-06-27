@@ -1,4 +1,4 @@
-package c.orientacao.ex1ClassesBasicas;
+package c.orientacaoObjetos.ex1ClassesBasicas;
 
     public class Livro {
         //Encapsulamento - Atributos privados garantem que o estado do objeto só seja modificado através de métodos controlados.

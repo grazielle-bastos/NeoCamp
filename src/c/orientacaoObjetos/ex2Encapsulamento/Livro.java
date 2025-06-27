@@ -1,4 +1,4 @@
-package c.orientacao.ex2Encapsulamento;
+package c.orientacaoObjetos.ex2Encapsulamento;
 
 public class Livro {
     private String titulo;

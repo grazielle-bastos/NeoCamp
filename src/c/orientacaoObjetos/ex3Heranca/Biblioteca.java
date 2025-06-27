@@ -1,4 +1,4 @@
-package c.orientacao.ex3Heranca;
+package c.orientacaoObjetos.ex3Heranca;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package c.orientacao.ex1ClassesBasicas;
+package c.orientacaoObjetos.ex1ClassesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;

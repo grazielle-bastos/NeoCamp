@@ -1,4 +1,4 @@
-package c.orientacao.ex4InterfacesAbstracao;
+package c.orientacaoObjetos.ex4InterfacesAbstracao;
 
 public class Livro extends Item {
     public Livro(String titulo, String autor, int anoPublicacao) {

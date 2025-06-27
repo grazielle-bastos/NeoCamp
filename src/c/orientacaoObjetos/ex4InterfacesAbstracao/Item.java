@@ -1,4 +1,4 @@
-package c.orientacao.ex4InterfacesAbstracao;
+package c.orientacaoObjetos.ex4InterfacesAbstracao;
 
 public abstract class Item implements ItemBiblioteca { //Classe abstrata permite definir comportamentos comuns e métodos abstratos (sem implementação)
     protected String titulo;

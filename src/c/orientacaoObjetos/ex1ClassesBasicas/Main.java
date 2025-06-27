@@ -1,4 +1,4 @@
-package c.orientacao.ex1ClassesBasicas;
+package c.orientacaoObjetos.ex1ClassesBasicas;
 
 public class Main {
     public static void main(String[] args) {

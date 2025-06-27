@@ -1,4 +1,4 @@
-package c.orientacao.ex2Encapsulamento;
+package c.orientacaoObjetos.ex2Encapsulamento;
 
 import java.util.ArrayList;
 import java.util.List;

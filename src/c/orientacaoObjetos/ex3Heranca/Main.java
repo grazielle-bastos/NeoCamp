@@ -1,4 +1,4 @@
-package c.orientacao.ex3Heranca;
+package c.orientacaoObjetos.ex3Heranca;
 
 public class Main {
 

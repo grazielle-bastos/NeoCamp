@@ -1,4 +1,4 @@
-package c.orientacao.ex4InterfacesAbstracao;
+package c.orientacaoObjetos.ex4InterfacesAbstracao;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package c.orientacao.ex4InterfacesAbstracao;
+package c.orientacaoObjetos.ex4InterfacesAbstracao;
 
 import java.util.ArrayList;
 import java.util.List;

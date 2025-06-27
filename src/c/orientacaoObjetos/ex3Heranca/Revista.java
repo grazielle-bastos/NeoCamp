@@ -1,4 +1,4 @@
-package c.orientacao.ex3Heranca;
+package c.orientacaoObjetos.ex3Heranca;
 
 public class Revista extends Livro { //Revista herda atributos e métodos da classe pai Livro, permitindo com a herança, reutilizar o código e criar relações "é um"
     private int edicao;
